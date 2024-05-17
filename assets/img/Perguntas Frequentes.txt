@@ -1,0 +1,53 @@
+Perguntas e Respostas Frequentes:
+g
+1- Como insiro o meus produtos no aplicativo?
+R: Para inserir os produtos no aplicativo basta clicar em vender, 
+será aberto uma tela em que clicando em inserir, adicionas os produtos.
+
+2- É possível adicionar mais de um produto?
+R: Sim. É possível adicionar os produtos que quiser e com a quantidade que desejar. 
+Basta clicar no ícone MAIS(+), que aparece em frente do produto e retirar em MENOS (-).
+
+3- Como faço para criar conta?
+R: Para criar a conta ao aceder o aplicativo, será mostrado uma tela com os campos: 
+nome de utilizador ou email e a palavra-passe, que serão usadas como credenciais de acesso.
+Após preencher os campos e clicar em concluir, a sua conta é criada. 
+
+4- Como emitir uma factura?
+R: Para emitir uma factura, após o pagamento, é gerado um código QR que permite 
+gerar o pagamento automático. E é gerado a factura que pode ser imprensa ou enviada ao cliente.
+
+5- Como faço para ler um código QR?
+R: O aplitivo gera o código QR automaticamente, para a leitura do mesmo, 
+basta abrir o leitor do código QR no dispositivo que deseja efectuar o pagamento
+e aproximar ao código disponibilizado no aplicativo e já está.
+
+6- Como posso compartilhar a factura?
+R: A factura pode ser compartilhada de várias maneiras, por bluetooth, por Whatsapp, 
+email e etc. Ao clicar em compartilhar factura, vai aparecer as vias de transferências
+da factura e é só escolher a pretendida.
+
+7- Como entro no aplicativo?
+R: Para entrar no aplicativo, se já possuir uma conta, basta clicar em LOGIN (entrar) e inserir as suas credenciais de acesso (nome de utilizador ou email e 
+palavra-passe) e será aberto o seu perfil. Se não possuir uma conta, terá que clicar em criar conta.
+
+8- Como saio do aplicativo?
+R: Para sair do aplicativo, no seu perfil tem a opção fazer logout (sair). Basta clicar e sairá do aplicativo.
+
+9-Tem Desconto?
+R: Olá, obrigado pela sua pergunta. O preço anunciado já é o melhor valor ofertado. Portanto, você já está pagando por um valor bastante competitivo, não sendo 
+possível a aplicação de descontos adicionais. Vamos esperar sua compra. Qualquer outra dúvida, estamos à disposição. Obrigado. 
+
+10- Tem outra forma de pagamento?
+R: Não. Infelizmente não temos outra forma de pagamento.
+
+11- Como verifico os pagamentos efectuados?
+
+12- Este Produto é novo ou usado?
+
+
+
+
+
+
+
